@@ -12,7 +12,7 @@ alert(saida)
 
     const resp = prompt("Você gosta de estudar ${linguagem}? Sim ou Não")
         if (resp == 'Sim'){
-            console.log("Muito Bom!")
+            console.log("Muito bom! Continue estudando e você terá muito sucesso")
         }else{
             console.log("Ah que pena...")
         }
